@@ -1,9 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axyl-casc)
-<!--
-**ZxNashx/ZxNashx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
--->
 # General Information
 - 🔭 I’m currently working on a game using Godot game engine. 
 - 🌱 I’m currently learning SQL & C. 
